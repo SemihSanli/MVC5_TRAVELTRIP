@@ -8,11 +8,11 @@ Projemiz, insanların tatil-seyahat için  gideceği konumlar ile ilgili fikir s
 isterlerse yorum yaparak etkileşim halinde olabilirler. 
 
 # ✍Projede olan teknolojiler
- ## C#
- ## Asp.Net MVC
- ## Html-Css-JavaScript
- ## Veri Tabanı İçin MSSQL
- ## CodeFirst Yaklaşımı
+ ## 📌C#
+ ## 📌Asp.Net MVC
+ ## 📌Html-Css-JavaScript
+ ## 📌Veri Tabanı İçin MSSQL
+ ## 📌CodeFirst Yaklaşımı
 
 # ✍Proje Açıklaması;
 
@@ -84,4 +84,8 @@ isterlerse yorum yaparak etkileşim halinde olabilirler.
 ###  🗑️  Mevcut Yorum silinmeyi gerektiriyorsa "Sil" Butonu yardımı ile tek tıkla silebilir
  ![Image Alt](https://github.com/SemihSanli/MVC5_TRAVELTRIP/blob/3e3e5a9099fbc691471ea4ad8c00e4d8bccafc6c/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-30%20125708.png)
 
- # 🔍 
+ # 🔍 Sol menüde bulunan "Siteye Git" kısmına tıklayarak sitenin arayüzünü görüntüleyebilir
+ ![Image Alt](https://github.com/SemihSanli/MVC5_TRAVELTRIP/blob/3579f68136e82bf989c80fd37fdc09436e9de2de/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-30%20143114.png)
+
+ # 🔍 Sol menüde bulunan "Çıkış Yap" kısmına tıklayarak oturumunu kapatabilir
+ ![Image Alt](https://github.com/SemihSanli/MVC5_TRAVELTRIP/blob/b23b93a9957a689a7c8543c727775c75dd7c0a7f/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-30%20125800.png)
