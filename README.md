@@ -18,7 +18,7 @@ isterlerse yorum yaparak etkileşim halinde olabilirler.
 
 # ☑ Anasayfa
 
-## Kullanıcılar bu sayfada;
+##  🙍🏻‍♂️Kullanıcılar bu sayfada;
 ### 🛡️ En Popüler 10 blog,
 ### 🛡️ Orta kısımda, yüklenmiş son 3 blog ve onlarla ilgili bilgileri görüntüleyebilir (Dilerse "Devamını Oku" Butonuna basarak ilgili bloğu ziyaret edebilir)
 ### 🛡️ Üst kısımdaki navbar aracılığı ile diğer sayfalar arasında gezinti yapabilir.
