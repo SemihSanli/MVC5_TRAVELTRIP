@@ -83,3 +83,5 @@ isterlerse yorum yaparak etkileşim halinde olabilirler.
  ![Image Alt](https://github.com/SemihSanli/MVC5_TRAVELTRIP/blob/3e3e5a9099fbc691471ea4ad8c00e4d8bccafc6c/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-30%20135531.png)
 ###  🗑️  Mevcut Yorum silinmeyi gerektiriyorsa "Sil" Butonu yardımı ile tek tıkla silebilir
  ![Image Alt](https://github.com/SemihSanli/MVC5_TRAVELTRIP/blob/3e3e5a9099fbc691471ea4ad8c00e4d8bccafc6c/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-30%20125708.png)
+
+ # 🔍 
