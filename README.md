@@ -59,3 +59,27 @@ isterlerse yorum yaparak etkileşim halinde olabilirler.
 ### ┆ Site'nin arayüzüne erişebilmesi için "Siteye Git" kısmı
 ### ┆ Oturumu Kapatabilmesi için "Çıkış Yap" kısmı
 
+# 🔍Anasayfada bizi ilk karşılayan bölüm "Blog Listesi"dir.
+
+## 👨🏻‍💻 Burada yönetici;
+### ➕  Yeni Blog Ekleyebilir
+ ![Image Alt]( https://github.com/SemihSanli/MVC5_TRAVELTRIP/blob/3e3e5a9099fbc691471ea4ad8c00e4d8bccafc6c/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-30%20135541.png)
+
+### ✎  Mevcut Bloğu Güncelleyebilir
+ ![Image Alt](https://github.com/SemihSanli/MVC5_TRAVELTRIP/blob/3e3e5a9099fbc691471ea4ad8c00e4d8bccafc6c/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-30%20135607.png)
+ 
+ ### 🗑️  Mevcut Bloğu "Sil" Butonu yardımı ile tek tıkla silebilir
+ ![Image Alt](https://github.com/SemihSanli/MVC5_TRAVELTRIP/blob/b23b93a9957a689a7c8543c727775c75dd7c0a7f/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-30%20135510.png)
+
+
+
+## </>  Yorumlar Sayfasına Ulaşmak İsterse Sol Taraftaki Menüyü Kullanarak  Yorumlar sayfasına ulaşabilir
+![Image Alt](https://github.com/SemihSanli/MVC5_TRAVELTRIP/blob/3e3e5a9099fbc691471ea4ad8c00e4d8bccafc6c/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-30%20125708.png)
+
+# 🔍Burada Bizi Yorum Listesi Karşılar
+## 👨🏻‍💻 Burada yönetici;
+
+### ✎  Eğer yorumda düzeltilmesi gereken bir yazım yanlışı veya kullanılmaması gereken bir kelime var ise güncelleyebilir
+ ![Image Alt](https://github.com/SemihSanli/MVC5_TRAVELTRIP/blob/3e3e5a9099fbc691471ea4ad8c00e4d8bccafc6c/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-30%20135531.png)
+###  🗑️  Mevcut Yorum silinmeyi gerektiriyorsa "Sil" Butonu yardımı ile tek tıkla silebilir
+ ![Image Alt](https://github.com/SemihSanli/MVC5_TRAVELTRIP/blob/3e3e5a9099fbc691471ea4ad8c00e4d8bccafc6c/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-30%20125708.png)
