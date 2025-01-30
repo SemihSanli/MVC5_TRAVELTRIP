@@ -54,7 +54,7 @@ isterlerse yorum yaparak etkileşim halinde olabilirler.
 ![Image Alt]( https://github.com/SemihSanli/MVC5_TRAVELTRIP/blob/b23b93a9957a689a7c8543c727775c75dd7c0a7f/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-30%20135510.png)
 
 ## 🔍 Anasayfanın sol tarafında bizleri;
-### ┆ Ekleme-silme-güncelleme yapabilmesi için "Bloglar" seçeneği
+### ┆ Ekleme-silme-güncelleme yapabilmesi için "Bloglar" kısmı
 ### ┆ Güncelleyip-silebilmesi için "Yorumlar" kısmı
 ### ┆ Site'nin arayüzüne erişebilmesi için "Siteye Git" kısmı
 ### ┆ Oturumu Kapatabilmesi için "Çıkış Yap" kısmı
