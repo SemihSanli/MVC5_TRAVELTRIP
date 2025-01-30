@@ -44,3 +44,18 @@ isterlerse yorum yaparak etkileşim halinde olabilirler.
 ![Image Alt](https://github.com/SemihSanli/MVC5_TRAVELTRIP/blob/c8ab68ace259b33d9f839aab45c507ecc882f3b0/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-30%20125518.png)
 
 
+# 👨🏻‍💻 Peki Yöneticimiz ne yapıyor? Gelin birlikte bakalım
+
+## Eğer yetkilendirildi ise 
+  ## Login sayfası üzerinden giriş yapar. 
+  ![Image Alt](https://github.com/SemihSanli/MVC5_TRAVELTRIP/blob/b23b93a9957a689a7c8543c727775c75dd7c0a7f/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-30%20125800.png)
+  
+ # 🤝 Eğer giriş bilgileri doğru ise Admin paneli'nin anasayfasına erişebilir
+![Image Alt]( https://github.com/SemihSanli/MVC5_TRAVELTRIP/blob/b23b93a9957a689a7c8543c727775c75dd7c0a7f/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-30%20135510.png)
+
+## 🔍 Anasayfanın sol tarafında bizleri;
+### ┆ Ekleme-silme-güncelleme yapabilmesi için "Bloglar" seçeneği
+### ┆ Güncelleyip-silebilmesi için "Yorumlar" kısmı
+### ┆ Site'nin arayüzüne erişebilmesi için "Siteye Git" kısmı
+### ┆ Oturumu Kapatabilmesi için "Çıkış Yap" kısmı
+
