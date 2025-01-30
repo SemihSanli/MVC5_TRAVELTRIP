@@ -92,7 +92,7 @@ isterlerse yorum yaparak etkileşim halinde olabilirler.
 
 
  # 👀Peki Bu Proje Bana Neler Kattı?
- ## 🌟Asp.Net MVC ile geliştirdiğim ilk proje olduğu için genel Asp.Net MVC yapısını
+ ## 🌟Asp.Net MVC ile geliştirdiğim ilk Web proje olduğu için genel Asp.Net MVC yapısını
  ## 🌟CodeFirst Yaklaşımını pekiştirmemi
  ## 🌟Projeme nasıl Tema yükleyeceğimi
  ## 🌟PartialView Kullanımını
