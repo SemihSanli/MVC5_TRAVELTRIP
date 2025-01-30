@@ -20,7 +20,7 @@ isterlerse yorum yaparak etkileşim halinde olabilirler.
 
 Kullanıcılar bu sayfada;
 En Popüler 10 blog,
-Orta kısımda, yüklenmiş son 3 blog ve onlarla ilgili bilgi(Dilerse "Devamını Oku" Butonuna basarak ilgili bloğu ziyaret edebilir)
+Orta kısımda, yüklenmiş son 3 blog ve onlarla ilgili bilgileri görüntüleyebilir (Dilerse "Devamını Oku" Butonuna basarak ilgili bloğu ziyaret edebilir)
 Üst kısımdaki navbar aracılığı ile diğer sayfalar arasında gezinti yapabilir.
 En popüler 10 blog altında bulunan "Tüm Blogları Görüntüle" Seçeneği ile "Bloğum" Sayfasına yönlendirilerek tüm blogları görüntüleyebilir veya direkt olarak ilgili bloğun üzerine tıklayarak o bloğa ait sayfaya gidebilir
 
