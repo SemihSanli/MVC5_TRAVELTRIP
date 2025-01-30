@@ -89,3 +89,15 @@ isterlerse yorum yaparak etkileşim halinde olabilirler.
 
  # 🔍 Sol menüde bulunan "Çıkış Yap" kısmına tıklayarak oturumunu kapatabilir
  ![Image Alt](https://github.com/SemihSanli/MVC5_TRAVELTRIP/blob/b23b93a9957a689a7c8543c727775c75dd7c0a7f/Resimler/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-01-30%20125800.png)
+
+
+ # 👀Peki Bu Proje Bana Neler Kattı?
+ ## 🌟Asp.Net MVC ile geliştirdiğim ilk proje olduğu için genel Asp.Net MVC yapısını
+ ## 🌟CodeFirst Yaklaşımını pekiştirmemi
+ ## 🌟Projeme nasıl Tema yükleyeceğimi
+ ## 🌟PartialView Kullanımını
+ ## 🌟Partial içerisinde Partial kullanımı
+ ## 🌟Migration kullanımını pekiştirmemi
+ ## 🌟IEnumerable ile bir view üzerinde birden fazla tablo listeleme
+ ## 🌟Authentication yapısının nasıl kurulacağını,öğrenmemi-pekiştirmemi sağladı.
+ 
